@@ -1,0 +1,5 @@
+This file is created to use git add command
+
+git add filename
+git commit -s *
+git push origin master
